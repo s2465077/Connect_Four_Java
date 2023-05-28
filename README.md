@@ -1,5 +1,5 @@
 # Connect Four Java Program
-
+---
 A Connect 4 game developed in Java using vanilla Java. \
 Was developed as an Intellij project.
 
